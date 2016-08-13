@@ -8,5 +8,5 @@
   "bugs": { "url": "https://github.com/aspectron/gendoc/issues" },
   "license": "MIT",
   "keywords": ["documentation", "generator", "markdown", "html"],
-  "tags": ["documentation", "generator", "markdown", "html"],
+  "tags": ["documentation", "generator", "markdown", "html"]
 }
