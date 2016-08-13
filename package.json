@@ -3,6 +3,7 @@
   "description": "Yet another documentation generator from source code comments",
   "version": "1.0.0",
   "main": "./index.js",
+  "bin": { "gendoc": "./run.js" },
   "repository": "git://github.com/aspectron/gendoc.git",
   "homepage": "https://github.com/aspectron/gendoc",
   "bugs": { "url": "https://github.com/aspectron/gendoc/issues" },
